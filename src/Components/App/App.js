@@ -7,10 +7,10 @@ import Playlist from '../Playlist/Playlist';
 function App() {
   return (
     <div className="App">
-      <h1>Songs Search</h1>
-      <Searchbar/>
-      <SearchResults/>
-      <Playlist />
+         <h1>Songs Search</h1>
+        <Searchbar/>
+        <SearchResults/>
+        <Playlist />
     </div>
   );
 }

@@ -2,7 +2,11 @@ import React from 'react';
 
 class Track extends React.Component {
     render() {
-        return null;
+        return (
+            <div>
+                <section></section>
+            </div>
+        )
     }
         
     
