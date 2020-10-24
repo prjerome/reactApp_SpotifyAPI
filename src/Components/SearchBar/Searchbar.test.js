@@ -6,3 +6,4 @@ it('checks if Searchbar component renders without throwing', () => {
     const div = document.createElement('div');
     ReactDOM.render(<Searchbar/>, div);
 });
+

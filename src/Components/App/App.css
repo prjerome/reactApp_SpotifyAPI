@@ -13,3 +13,22 @@ h1 {
   color: aliceblue;
 }
 
+input {
+  border-radius: 30px;
+  margin: 50px auto;
+  display: block;
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+}
+
+input:hover {
+  background-color: purple;
+}
+
+[placeholder] {
+  background-color: aliceblue;
+  color: black;
+  font-weight: bold;
+}
+

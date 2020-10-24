@@ -1,18 +1,1 @@
-input {
-    border-radius: 30px;
-    margin: 50px auto;
-    display: block;
-    text-align: center;
-}
-
-button {
-    border-radius: 30px;
-    background-color: black;
-    color: aliceblue;
-    
-}
-
-button:hover {
-    background-color: purple;
-}
 

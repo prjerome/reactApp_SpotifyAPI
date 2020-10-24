@@ -1,0 +1,284 @@
+//Trimmed response. Removed data which is not relevant for app. Easier to read and pull out relevant data.
+
+{
+  "tracks": {
+    "items": [
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
+              },
+              "href": "https://api.spotify.com/v1/artists/3tLYpanVDomWAZqF82NPds",
+              "id": "3tLYpanVDomWAZqF82NPds",
+              "name": "Vigiland",
+              "type": "artist",
+              "uri": "spotify:artist:3tLYpanVDomWAZqF82NPds"
+            }
+          ],
+          "name": "Friday Night",
+          "release_date": "2017-04-28",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:3L7dWkpi2vNPu3qiskT6Yj"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
+            },
+            "href": "https://api.spotify.com/v1/artists/3tLYpanVDomWAZqF82NPds",
+            "id": "3tLYpanVDomWAZqF82NPds",
+            "name": "Vigiland",
+            "type": "artist",
+            "uri": "spotify:artist:3tLYpanVDomWAZqF82NPds"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 173871,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEUM71700309"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78zc6DT7A2ccehmIqef9mT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/78zc6DT7A2ccehmIqef9mT",
+        "id": "78zc6DT7A2ccehmIqef9mT",
+        "is_local": false,
+        "name": "Friday Night‬‬‬",
+        "popularity": 67,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:78zc6DT7A2ccehmIqef9mT"
+      },
+      //second track
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+              },
+              "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+              "id": "7bu3H8JO7d0UbMoVzbo70s",
+              "name": "The Cure",
+              "type": "artist",
+              "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AE",
+            "AR",
+            "AT",
+            "AU",
+            "BA",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HR",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LV",
+            "MC",
+            "MK",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "RO",
+            "RU",
+            "SA",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SV",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "UA",
+            "VN",
+            "ZA"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+          },
+          "href": "https://api.spotify.com/v1/albums/0aEL0zQ4XLuxQP0j7sLlS1",
+          "id": "0aEL0zQ4XLuxQP0j7sLlS1",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739c72b249fcaa04d074c1dfcd",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029c72b249fcaa04d074c1dfcd",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519c72b249fcaa04d074c1dfcd",
+              "width": 64
+            }
+          ],
+          "name": "Wish",
+          "release_date": "1992-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:0aEL0zQ4XLuxQP0j7sLlS1"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+            },
+            "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+            "id": "7bu3H8JO7d0UbMoVzbo70s",
+            "name": "The Cure",
+            "type": "artist",
+            "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BA",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HR",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LV",
+          "MC",
+          "MK",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "RO",
+          "RU",
+          "SA",
+          "SE",
+          "SG",
+          "SI",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "UA",
+          "VN",
+          "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 215160,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBALB9200002"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4QlzkaRHtU8gAdwqjWmO8n",
+        "id": "4QlzkaRHtU8gAdwqjWmO8n",
+        "is_local": false,
+        "name": "Friday I'm In Love",
+        "popularity": 75,
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4QlzkaRHtU8gAdwqjWmO8n"
+      }
+    ],
+    "limit": 2,
+    "next": "https://api.spotify.com/v1/search?query=friday&type=track&offset=2&limit=2",
+    "offset": 0,
+    "previous": null,
+    "total": 56119
+  }
+}

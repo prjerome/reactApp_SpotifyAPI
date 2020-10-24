@@ -8,7 +8,7 @@ class Playlist extends React.Component {
         return (
             <div>
                 <TrackList/>
-                <button>Save to Spotify</button>
+                <input className="playlistInput" type="submit" value="Save to Spotify"/>
             </div>
 
         )
