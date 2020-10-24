@@ -1,0 +1,22 @@
+.container {
+    height: 200px;
+    max-width: 40%;
+    margin: 0 auto;
+    background-color:cornflowerblue;
+}
+
+section {
+    color: aliceblue;
+}
+
+p {
+    display: inline;
+}
+
+hr {
+  border-top: 5px solid black; 
+}
+
+.results {
+    text-align: left;
+}
